@@ -32,6 +32,6 @@
  我们也可以实例化游戏对象用Instantiate方法让它出现在游戏中，也可以使用Destroy方法让游戏对象销毁消失在游戏场景中。
 
 
-  [1]: https://wx1.sinaimg.cn/mw690/c184249cly1fq4y0ly2owj20tn0inqc5.jpg
-  [2]: https://wx4.sinaimg.cn/mw690/c184249cly1fq4y0m5xq0j20r20fctun.jpg
+  [1]: https://github.com/wym199807/unity3d-game3/blob/master/1.jpg
+  [2]: https://github.com/wym199807/unity3d-game3/blob/master/2.jpg
 
