@@ -3,15 +3,15 @@
 1、操作与总结
  
 - **参考 Fantasy Skybox FREE 构建自己的游戏场景**
-  - 在Asset Store下载TGU Skybox Pack（Fantasy Skybox FREE没有找到），这个包里面有四个已经制作好的天空盒和对应的场景。如下图所示：
+  - 在Asset Store下载Fantasy Skybox FREE，如下图所示：
 
  ![photo1][1]
  
-  - 在Nostalgia1场景中放置Terrain，并且使用Height Tools使地面高低起伏，为地形添加纹理图案，然后为地形添加树和细节（草），如图下所示：
+  - 在场景中放置Terrain，为地形添加纹理图案，然后为地形添加树，如图下所示：
 
 ![photo2][2]
 
-![photo3][3]
+
 
 
 
@@ -34,4 +34,4 @@
 
   [1]: https://wx1.sinaimg.cn/mw690/c184249cly1fq4y0ly2owj20tn0inqc5.jpg
   [2]: https://wx4.sinaimg.cn/mw690/c184249cly1fq4y0m5xq0j20r20fctun.jpg
-  [3]: https://wx2.sinaimg.cn/mw690/c184249cly1fq4y0m79e6j20ts0f3b04.jpg
+
